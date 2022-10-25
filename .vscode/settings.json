@@ -1,0 +1,10 @@
+// {
+//     "liveServer.settings.port": 5501
+    
+// }
+
+{
+    "editor.fontFamily": "Preahvihear",
+    "editor.fontLigatures": "true",
+    "liveServer.settings.port": 5501,
+}
